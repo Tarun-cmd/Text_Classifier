@@ -1,7 +1,11 @@
 # Text_Classifier
 **Run in Google Colab**
 
-**Or include '''encoding='latin-1' ''' when oading the file**
+**Or include 
+'''
+encoding='latin-1' 
+''' 
+when loading the file**
 
 This is a classifer that categorizes the text into Education or Not Education.
 
